@@ -1,0 +1,1 @@
+<?php function GalleryFastDownload() { return $GLOBALS['gallery']->fastDownload('derivative/1/8/1877.dat', 'Abschiedsspiel Roland Weidle.jpg', 'Mon, 17 Aug 2009 16:30:53 GMT', 'image/jpeg', 4430);} ?>

@@ -1,0 +1,199 @@
+body
+{
+	font-size: small;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	overflow-x: hidden;
+    -webkit-user-select: none;
+    -webkit-text-size-adjust: none;      
+}
+table
+{
+	font-size: small;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+}
+td
+{
+	font-size: small;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+}
+form
+{
+	display: inline;
+}
+a
+{
+	color: black;
+	text-decoration: none;
+}
+img 
+{
+	border: 0px;
+}
+
+
+.align-right
+{
+	text-align: right;
+}
+.align-left
+{
+	text-align: left;
+}
+.align-center
+{
+	text-align: center;
+}
+
+
+.logo
+{
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.logo-baa
+{
+	text-align: center;
+	background-color: #C6007B;
+}
+.footer-a
+{
+	font-size: smaller;
+	text-decoration: none;
+}
+.banner
+{
+	text-align: center;
+}
+
+.paging
+{
+	text-align: center;
+}
+
+.separator-line
+{
+	background-color: #FFF; 
+	border-top: 1px solid #000;
+	line-height: 0px;
+}
+.separator-line-bold
+{
+	border-top: 2px solid #000;
+	color:#FFF;
+	line-height: 0px;
+}
+
+.vert-space-small
+{
+	border-top: 2px solid #FFF;
+	line-height: 0px;
+}
+
+.vert-space
+{
+	border-top: 4px solid #FFF;
+	line-height: 0px;
+}
+
+.breadcrumb
+{
+	color: gray;
+}
+
+/* MENU */
+.menu-category
+{
+	border-top:1px solid #FFF;
+	background-color: #E4001B;
+}
+.menu-category-baa
+{
+	border-top:1px solid #FFF;
+	background-color: #C6007B;
+}
+.menu-category-a
+{
+	color:#FFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.menu-subcategory
+{
+	border-top:2px solid #FFF;
+	border-bottom:2px solid #FFF;
+	background-color: #E1E1E1;
+}
+.menu-subcategory-a
+{
+	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.first { 
+background-color:#FFFFFF; 
+}
+
+.second { 
+background-color:#EAE9E8; 
+}
+
+/* NEWS */
+.news-indexpage-title
+{
+	background-color: #FF7777;
+}
+.news-indexpage-title-text
+{
+	color:#FFF;
+	font-weight: bold;
+}
+.subchannel-news-title
+{
+	font-weight: bold;
+	font-size: larger;
+}
+.news-full-title
+{
+	font-weight: bold;
+	font-size: larger;
+}
+.news-pubdate
+{
+	color: gray;
+	text-align: left;
+}
+.news-full-subtitle
+{
+	background-color: #E1E1E1;
+	color:#000;
+	font-weight: bold;
+	text-align: center;
+}
+.news-full-leadtext
+{
+	font-weight: bold;
+}
+.news-full-rating
+{
+	border: 1px solid #D6D6D6;
+}
+.news-full-fulltext
+{}
+
+/* TABLE RESULTS */
+.table-data
+{
+	font-size: smaller;
+}
+.table-head
+{
+	font-weight: bold;
+	color: gray;
+	font-size: smaller;
+}
+.table-separator
+{
+	border-top: 1px dotted gray;
+	height:1px;
+}

@@ -1,0 +1,104 @@
+/* file: style.css */
+
+/* autor: Patrick Zysset, zyssp */
+/* date: 10/03/2001 */
+/* page: fcaarberg.ch */
+
+body { background-color:#ffffff; font-family:Arial,Helvetica,sans-serif; color:black; font-size: 10pt; text-align:justify;}
+
+p,h1,h2,h3,h4,h6,td,th { font-family:Arial,Helvetica,sans-serif; color:black; font-style:normal; }
+
+/* general styles */
+
+p { font-size:10pt; }
+@page { size:21.0cm 14.85cm; }
+
+
+/* a:link = Verweise zu noch nicht besuchten Seiten */
+/* a:visited = Verweise zu bereits besuchten Seiten */
+/* a:active = Verweise, die gerade angeklickt werden */
+
+a:link { color:#ff0000; text-decoration:none; font-weight:bold; }
+a:visited { color:#aa0000; text-decoration:none; }
+a:active { color:#aa0000; text-decoration:none; }
+
+
+/* tables */
+
+th { text-align:left; background-color:#ff7777; }
+
+/* table classes */
+.top { background-color:#BBBBBB; }
+.header { background-color:#FF7777; }
+.footer { background-color:#DDDDDD; text-align:center; }
+.nextmatch { background-color:#DDDDDD; text-align:left; }
+.tdnextmatch { font-size:8pt; }
+.content { }
+.news { background-color:#FFDDDD; }
+
+.first { background-color:#FFFFFF; }
+.second { background-color:#EEEEEE; }
+.firstsmall { background-color:#FFFFFF; font-size:8pt; }
+.secondsmall { background-color:#EEEEEE; font-size:8pt; }
+
+/* "anlaesse" classes */
+.past { background-color:#cccccc; }
+.comingup { background-color:#FFFFFF; }
+
+/* navigation classes */
+.actual { background-color:#ffcccc; }
+.inactive { background-color:#cccccc; }
+
+.navbar { text-align:center; background-color:#dddddd; font-weight:bold; }
+
+/* headings */
+
+h1 { font-size:20pt; font-weight:bold; text-align:center; }
+h2 { font-size:16pt; text-align:center;}
+h3 { font-size:14pt; }
+h4 { font-size:12pt; font-weight:bold; }
+h5 { font-size:10pt; font-weight:bold; }
+
+/* footer */
+
+h6 { font-family:Arial,sans-serif; font-size:10pt; color:#555555; }
+
+
+/* unnumbered lists */
+
+ul { font-size:10pt; text-align:left; list-style-type:circle; list-style-position:inside; }
+
+
+/* examples, samples */
+
+samp { font-size:10pt; color:#228822; background-color:#DDDDDD; }
+
+/* variables */
+
+var { font-style:italic; }
+
+/* source code examples */
+
+code { font-family:Courier; font-size:10pt; color:#882222; background-color:#DDDDDD; }
+
+/* menu */
+menu { font-weight:bold; font-size:12pt; list-style-type:none; background-color:#FFFFFF; color:#FF0000; }
+
+/* calendar classes */
+
+/* td { text-align:center; background-color:#eee }
+th { text-align:center; background-color:#228; color:white } */
+td.cal_sum { text-align:left; }
+td.cal_sumdone { text-align:left; background-color:#ccc; }
+td.cal_done { background-color:#ccc; }
+td.cal_subhead { text-align:center; background-color:#ccf; }
+td.cal_datehead { text-align:center; background-color:#ccf; }
+td.cal_space { background-color:white; }
+td.cal_date { text-align:left; }
+td.cal_dateholiday { text-align:left; color:#888888; font-weight:bold; }
+td.cal_today { text-align:left; color:black; background-color:#ffaaaa; }
+td.cal_gameheader { background-color:#CCFFCC; text-align:left; font-size:8pt; font-weight:bold; }
+td.cal_gameinfo { background-color:#FFFFFF; font-size:8pt; text-align:left; }
+td.cal_time { text-align:left; font-size:8pt; font-weight:bold; }
+td.cal_event { background-color:#CCCCFF; text-align:left; font-size:8pt; font-weight:bold; }
+td.cal_othermonth { background-color:#CCCCCC; }

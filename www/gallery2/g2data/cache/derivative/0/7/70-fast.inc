@@ -1,0 +1,1 @@
+<?php function GalleryFastDownload() { return $GLOBALS['gallery']->fastDownload('derivative/0/7/70.dat', 'dsc02455.jpg', 'Tue, 17 Jan 2006 12:16:37 GMT', 'image/jpeg', 49345);} ?>

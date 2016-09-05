@@ -1,0 +1,1 @@
+|a:5:{s:14:"derivativePath";s:73:"/home/fcaarberg/public_html/gallery2/g2data/cache/derivative/1/5/1577.dat";s:14:"derivativeType";i:1;s:8:"mimeType";s:10:"image/jpeg";s:8:"parentId";i:1576;s:14:"pseudoFileName";s:12:"S4200094.JPG";}

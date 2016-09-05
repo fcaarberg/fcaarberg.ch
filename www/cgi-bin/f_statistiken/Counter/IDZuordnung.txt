@@ -1,0 +1,24 @@
+Index 000: Startseite
+Index 001: Terminkalender
+Index 002: Trainingsplan
+Index 003: Resultate
+Index 004: Torschützen
+Index 005: Resultate Kappelen
+Index 006: Resultate Flamatt
+Index 007: Portraits
+Index 008: Portraits 94 Seite 1
+Index 009: Portraits 94 Seite 2
+Index 010: Portraits 94 Seite 3
+Index 011: Portraits 95
+Index 012: Portraits 96
+Index 013: Portraits 97
+Index 014: Trainer
+Index 015: Galerie
+Index 016: Resultate Sumiswald
+Index 100: Aufgebot Sumiswald
+Index 101: Aufgebot Jegenstorf
+Index 200: Bild Nicola Portmann
+Index 201: Bild Raphael Scheurer
+Index 202: Bild Lino Beyeler
+Index 203: Bild Riana Möri
+Index 204: Bild Remo Hofer
